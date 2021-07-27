@@ -1,0 +1,44 @@
+body {
+    background-color: #3CA2E0;     
+}
+.block {
+    width: 40%;
+    height: 100%;
+    margin: 79px auto;
+    padding-left:50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    justify-content: center;
+    background-color: white;
+    border-radius: 6px;
+}
+input {
+    display: block;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-transform: capitalize;
+    color: #ED90B2;
+    border-color: #B0B4BD;
+    padding:5px;
+}
+.clickbutton {
+    padding: 8px;
+    text-transform: capitalize;
+    background-color: #FF3264;
+    border:none;
+    border-radius: 20px;
+    width: 40%;
+    color: #FFF;
+    margin-left: 28%;	
+}
+.logo {
+    margin-left: 35%;
+}
+.forminput {
+    display: flex;
+    margin: 20px auto 25px 30%; 
+}
+.l {
+    margin-right: 8px;
+}
